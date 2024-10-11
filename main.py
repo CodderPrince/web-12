@@ -3,8 +3,8 @@ import pandas as pd
 
 # title
 st.title("Welcome to My Website")
-st.header("Python")
-st.subheader("JAVA")
+st.header("Python Streamlit Framework")
+st.subheader("JAVA language")
 st.markdown("I Love Her!")
 
 st.code("""for i in range(1,5,1):
